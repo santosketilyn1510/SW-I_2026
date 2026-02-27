@@ -1,0 +1,8 @@
+<?php
+$x = "P";
+$y = "H";
+$z = "$x$y$x";
+echo $z;
+
+//o resultado é ERRO!
+?>
